@@ -1,0 +1,18 @@
+{
+  "name": "register",
+  "version": "1.0.0",
+  "main": "Register.js",
+  "scripts": {
+    "test": "mocha Register.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chai": "^5.2.1",
+    "chromedriver": "^138.0.3",
+    "mocha": "^11.7.1",
+    "selenium-webdriver": "^4.34.0"
+  }
+}
